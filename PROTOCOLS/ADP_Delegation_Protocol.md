@@ -5,7 +5,7 @@
 ---
 
 > **Download the original PDF:**
-> [ADP_Delegation_Protocol.pdf](https://github.com/DAOist7760/DA-ON-Revolution/raw/main/PROTOCOLS/ADP_Delegation_Protocol.pdf)
+> [ADP_Delegation_Protocol.pdf](https://github.com/DAOist7760/DA-ON-Revolution/raw/main/PROTOCOLS/ARA Delegation Protocol (20241026).pdf)
 
 *The Markdown conversion of this protocol is in progress.
 Contributors welcome — see [CONTRIBUTING.md](../../CONTRIBUTING.md).*
